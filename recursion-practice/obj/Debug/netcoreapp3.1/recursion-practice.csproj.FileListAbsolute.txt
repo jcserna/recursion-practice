@@ -1,0 +1,13 @@
+C:\Users\camis\source\repos\recursion-practice\recursion-practice\bin\Debug\netcoreapp3.1\recursion-practice.exe
+C:\Users\camis\source\repos\recursion-practice\recursion-practice\bin\Debug\netcoreapp3.1\recursion-practice.deps.json
+C:\Users\camis\source\repos\recursion-practice\recursion-practice\bin\Debug\netcoreapp3.1\recursion-practice.runtimeconfig.json
+C:\Users\camis\source\repos\recursion-practice\recursion-practice\bin\Debug\netcoreapp3.1\recursion-practice.runtimeconfig.dev.json
+C:\Users\camis\source\repos\recursion-practice\recursion-practice\bin\Debug\netcoreapp3.1\recursion-practice.dll
+C:\Users\camis\source\repos\recursion-practice\recursion-practice\bin\Debug\netcoreapp3.1\recursion-practice.pdb
+C:\Users\camis\source\repos\recursion-practice\recursion-practice\obj\Debug\netcoreapp3.1\recursion-practice.csprojAssemblyReference.cache
+C:\Users\camis\source\repos\recursion-practice\recursion-practice\obj\Debug\netcoreapp3.1\recursion-practice.AssemblyInfoInputs.cache
+C:\Users\camis\source\repos\recursion-practice\recursion-practice\obj\Debug\netcoreapp3.1\recursion-practice.AssemblyInfo.cs
+C:\Users\camis\source\repos\recursion-practice\recursion-practice\obj\Debug\netcoreapp3.1\recursion-practice.csproj.CoreCompileInputs.cache
+C:\Users\camis\source\repos\recursion-practice\recursion-practice\obj\Debug\netcoreapp3.1\recursion-practice.dll
+C:\Users\camis\source\repos\recursion-practice\recursion-practice\obj\Debug\netcoreapp3.1\recursion-practice.pdb
+C:\Users\camis\source\repos\recursion-practice\recursion-practice\obj\Debug\netcoreapp3.1\recursion-practice.genruntimeconfig.cache
